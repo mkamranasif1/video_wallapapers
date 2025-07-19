@@ -1,6 +1,14 @@
 [
     {
         "location": "China",
+        "title": "Mountains",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C007_C011_PSNK_v02_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C007_C011_PSNK_v02_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C007_C011_PSNK_v02_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C007_C011_PSNK_v02_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "China",
         "title": "Paddy Field",
         "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C002_C005_PSNK_v05_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
         "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C002_C005_PSNK_v05_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
@@ -201,211 +209,218 @@
     },
     {
         "location": "Undersea",
+        "title": "Bumpheads",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/BO_A014_C008_SDR_20190719_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/BO_A014_C008_HDR_20190719_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/BO_A014_C008_SDR_20190719_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/BO_A014_C008_HDR_20190719_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Undersea",
         "title": "California Kelp Forest",
         "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/g201_CA_A016_C002_SDR_20191114_SDR_2K_HEVC.mov",
         "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/g201_CA_A016_C002_HDR_20191114_HDR_2K_HEVC.mov",
         "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/g201_CA_A016_C002_SDR_20191114_SDR_4K_HEVC.mov",
         "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/g201_CA_A016_C002_HDR_20191114_HDR_4K_HEVC.mov"
-    },
- {
-    "location": "Location 1",
-    "title": "Evening",
-    "url_1080p": "https://sylvan.apple.com/Videos/G007_C004_UHD_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/G007_C004_UHD_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/G007_C004_UHD_SDR_FRC240fps_sdr_4k_qp24_240p_t2160_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/G007_C004_UHD_SDR_FRC240fps_sdr_4k_qp24_240p_t2160_tsa.mov"
-  },
-  {
-    "location": "Location 2",
-    "title": "River Valley",
-    "url_1080p": "https://sylvan.apple.com/Videos/G010_C026_UHD_SDR_v02_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/G010_C026_UHD_SDR_v02_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov"
-  },
-  {
-    "location": "Location 3",
-    "title": "Mountain",
-    "url_1080p": "https://sylvan.apple.com/Videos/P001_C005_UHD_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/P001_C005_UHD_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/P001_C005_UHD_SDR_240fps_89dfd1a5-485c-4572-8e9e-757bd06bcfa3q20_sRGB_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/P001_C005_UHD_SDR_240fps_89dfd1a5-485c-4572-8e9e-757bd06bcfa3q20_sRGB_tsa.mov"
-  },
-  {
-    "location": "Location 4",
-    "title": "Lake",
-    "url_1080p": "https://sylvan.apple.com/Videos/P005_C002_UHD_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/P005_C002_UHD_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/P005_C002_UHD_SDR_FRC240fps_sdr_4k_qp21_240p_t2160_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/P005_C002_UHD_SDR_FRC240fps_sdr_4k_qp21_240p_t2160_tsa.mov"
-  },
-  {
-    "location": "Location 5",
-    "title": "Range",
-    "url_1080p": "https://sylvan.apple.com/Videos/P007_C027_UHD_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/P007_C027_UHD_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/P007_C027_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/P007_C027_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov"
-  }
- {
-    "location": "Location 6",
-    "title": "Silhouette",
-    "url_1080p": "https://sylvan.apple.com/Videos/Y004_C015_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/Y004_C015_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y004_C015_UHD_SDR_240fps_1b32206c-d1ff-4c0b-88ee-f15346c59daaq19_sRGB_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y004_C015_UHD_SDR_240fps_1b32206c-d1ff-4c0b-88ee-f15346c59daaq19_sRGB_tsa.mov"
-  },
-  {
-    "location": "Location 7",
-    "title": "Yosemite from Above",
-    "url_1080p": "https://sylvan.apple.com/Videos/Y009_C015_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/Y009_C015_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y009_C015_UHD_SDR_FRC240fps_sdr_4k_qp23_240p_t2160_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y009_C015_UHD_SDR_FRC240fps_sdr_4k_qp23_240p_t2160_tsa.mov"
-  },
-  {
-    "location": "Location 8",
-    "title": "Snow Caps",
-    "url_1080p": "https://sylvan.apple.com/Videos/Y011_C008_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/Y011_C008_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/Y011_C008_FIN_UHD_SDR_240fps_f3150c20-ef0d-4a53-9535-ce4a3e65ed79q22_sRGB_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/Y011_C008_FIN_UHD_SDR_240fps_f3150c20-ef0d-4a53-9535-ce4a3e65ed79q22_sRGB_tsa.mov"
-  },
-  {
-    "location": "Location 9",
-    "title": "Coast",
-    "url_1080p": "https://sylvan.apple.com/Videos/S003_C020_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/S003_C020_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S003_C020_UHD_SDR_FRC240fps_sdr_4k_qp25_240p_t2160_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S003_C020_UHD_SDR_FRC240fps_sdr_4k_qp25_240p_t2160_tsa.mov"
-  },
-  {
-    "location": "Location 10",
-    "title": "Lake",
-    "url_1080p": "https://sylvan.apple.com/Videos/S005_C015_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/S005_C015_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S005_C015_UHD_SDR_FRC_sdr_4k_grover401qp32_240p_t2160_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S005_C015_UHD_SDR_FRC_sdr_4k_grover401qp32_240p_t2160_tsa.mov"
-  }
-
-{
-    "location": "Location 11",
-    "title": "Castle",
-    "url_1080p": "https://sylvan.apple.com/Videos/S006_C007_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/S006_C007_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S006_C007_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S006_C007_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov"
-  },
-  {
-    "location": "Location 12",
-    "title": "Coast",
-    "url_1080p": "https://sylvan.apple.com/Videos/I003_C004_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/I003_C004_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/I003_C004_UHD_SDR_FRC240fps_sdr_4k_qp22_240p_t2160_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/I003_C004_UHD_SDR_FRC240fps_sdr_4k_qp22_240p_t2160_tsa.mov"
-  },
-  {
-    "location": "Location 13",
-    "title": "Snow Caps",
-    "url_1080p": "https://sylvan.apple.com/Videos/I003_C011_SDR_2K_AVC.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/Videos/I003_C011_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/I003_C011_0623P8_UHD_SDR_FRC240fps_sdr_4k_qp22_240p_t2160_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/I003_C011_0623P8_UHD_SDR_FRC240fps_sdr_4k_qp22_240p_t2160_tsa.mov"
-  },
-  {
-    "location": "Location 14",
-    "title": "Coal Mine Canyon",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M013_C012_F01_FRC240fps_sdr_4k_qp25_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M013_C012_F01_FRC240fps_sdr_4k_qp25_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M013_C012_F01_FRC240fps_sdr_4k_qp25_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M013_C012_F01_FRC240fps_sdr_4k_qp25_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 15",
-    "title": "Utah Evening",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M012_C065_S04_FRC240fps_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M012_C065_S04_FRC240fps_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M012_C065_S04_FRC240fps_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M012_C065_S04_FRC240fps_sdr_4k_qp22_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 16",
-    "title": "Lake Powell",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M010_C009_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M010_C009_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M010_C009_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M010_C009_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 17",
-    "title": "Olympia Bar",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M005_C017_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M005_C017_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M005_C017_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M005_C017_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 18",
-    "title": "Oregon Coastline",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R004_C012_F01_FRC_sdr_4k_qp32_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R004_C012_F01_FRC_sdr_4k_qp32_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R004_C012_F01_FRC_sdr_4k_qp32_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R004_C012_F01_FRC_sdr_4k_qp32_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 19",
-    "title": "Sunset",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R006_C013_S05_FRC_sdr_4k_qp24_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R006_C013_S05_FRC_sdr_4k_qp24_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R006_C013_S05_FRC_sdr_4k_qp24_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R006_C013_S05_FRC_sdr_4k_qp24_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 20",
-    "title": "Redwoods River",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R013_C039_F01_FRC_sdr_4k_qp27_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R013_C039_F01_FRC_sdr_4k_qp27_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R013_C039_F01_FRC_sdr_4k_qp27_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R013_C039_F01_FRC_sdr_4k_qp27_240p_t2160_grover401_tsa.mov"
-  }
-{
-    "location": "Location 21",
-    "title": "Riverbend",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R014_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R014_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R014_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R014_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 22",
-    "title": "Rocky Coast",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R015_C011_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R015_C011_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R015_C011_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R015_C011_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 23",
-    "title": "Sequoia Forest",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R016_C010_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R016_C010_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R016_C010_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R016_C010_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 24",
-    "title": "Sand Dunes",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R017_C010_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R017_C010_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R017_C010_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R017_C010_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov"
-  },
-  {
-    "location": "Location 25",
-    "title": "Winter Forest",
-    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R018_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
-    "url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R018_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
-    "url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R018_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
-    "url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R018_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov"
-  }
+	},
+	{
+		"location": "Location 1",
+		"title": "Evening",
+		"url_1080p": "https://sylvan.apple.com/Videos/G007_C004_UHD_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/G007_C004_UHD_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/G007_C004_UHD_SDR_FRC240fps_sdr_4k_qp24_240p_t2160_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/G007_C004_UHD_SDR_FRC240fps_sdr_4k_qp24_240p_t2160_tsa.mov"
+	},
+	{
+		"location": "Location 2",
+		"title": "River Valley",
+		"url_1080p": "https://sylvan.apple.com/Videos/G010_C026_UHD_SDR_v02_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/G010_C026_UHD_SDR_v02_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov"
+	},
+	{
+		"location": "Location 3",
+		"title": "Mountain",
+		"url_1080p": "https://sylvan.apple.com/Videos/P001_C005_UHD_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/P001_C005_UHD_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/P001_C005_UHD_SDR_240fps_89dfd1a5-485c-4572-8e9e-757bd06bcfa3q20_sRGB_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/P001_C005_UHD_SDR_240fps_89dfd1a5-485c-4572-8e9e-757bd06bcfa3q20_sRGB_tsa.mov"
+	},
+	{
+		"location": "Location 4",
+		"title": "Lake",
+		"url_1080p": "https://sylvan.apple.com/Videos/P005_C002_UHD_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/P005_C002_UHD_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/P005_C002_UHD_SDR_FRC240fps_sdr_4k_qp21_240p_t2160_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/P005_C002_UHD_SDR_FRC240fps_sdr_4k_qp21_240p_t2160_tsa.mov"
+	},
+	{
+		"location": "Location 5",
+		"title": "Range",
+		"url_1080p": "https://sylvan.apple.com/Videos/P007_C027_UHD_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/P007_C027_UHD_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/P007_C027_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/P007_C027_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov"
+	},
+	{
+		"location": "Location 6",
+		"title": "Silhouette",
+		"url_1080p": "https://sylvan.apple.com/Videos/Y004_C015_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/Y004_C015_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y004_C015_UHD_SDR_240fps_1b32206c-d1ff-4c0b-88ee-f15346c59daaq19_sRGB_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y004_C015_UHD_SDR_240fps_1b32206c-d1ff-4c0b-88ee-f15346c59daaq19_sRGB_tsa.mov"
+	},
+	{
+		"location": "Location 7",
+		"title": "Yosemite from Above",
+		"url_1080p": "https://sylvan.apple.com/Videos/Y009_C015_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/Y009_C015_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y009_C015_UHD_SDR_FRC240fps_sdr_4k_qp23_240p_t2160_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y009_C015_UHD_SDR_FRC240fps_sdr_4k_qp23_240p_t2160_tsa.mov"
+	},
+	{
+		"location": "Location 8",
+		"title": "Snow Caps",
+		"url_1080p": "https://sylvan.apple.com/Videos/Y011_C008_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/Y011_C008_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/Y011_C008_FIN_UHD_SDR_240fps_f3150c20-ef0d-4a53-9535-ce4a3e65ed79q22_sRGB_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/Y011_C008_FIN_UHD_SDR_240fps_f3150c20-ef0d-4a53-9535-ce4a3e65ed79q22_sRGB_tsa.mov"
+	},
+	{
+		"location": "Location 9",
+		"title": "Coast",
+		"url_1080p": "https://sylvan.apple.com/Videos/S003_C020_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/S003_C020_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S003_C020_UHD_SDR_FRC240fps_sdr_4k_qp25_240p_t2160_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S003_C020_UHD_SDR_FRC240fps_sdr_4k_qp25_240p_t2160_tsa.mov"
+	},
+	{
+		"location": "Location 10",
+		"title": "Lake",
+		"url_1080p": "https://sylvan.apple.com/Videos/S005_C015_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/S005_C015_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S005_C015_UHD_SDR_FRC_sdr_4k_grover401qp32_240p_t2160_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S005_C015_UHD_SDR_FRC_sdr_4k_grover401qp32_240p_t2160_tsa.mov"
+	},
+	{
+		"location": "Location 11",
+		"title": "Castle",
+		"url_1080p": "https://sylvan.apple.com/Videos/S006_C007_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/S006_C007_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S006_C007_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S006_C007_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov"
+	},
+	{
+		"location": "Location 12",
+		"title": "Coast",
+		"url_1080p": "https://sylvan.apple.com/Videos/I003_C004_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/I003_C004_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/I003_C004_UHD_SDR_FRC240fps_sdr_4k_qp22_240p_t2160_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/I003_C004_UHD_SDR_FRC240fps_sdr_4k_qp22_240p_t2160_tsa.mov"
+	},
+	{
+		"location": "Location 13",
+		"title": "Snow Caps",
+		"url_1080p": "https://sylvan.apple.com/Videos/I003_C011_SDR_2K_AVC.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/Videos/I003_C011_SDR_2K_AVC.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/I003_C011_0623P8_UHD_SDR_FRC240fps_sdr_4k_qp22_240p_t2160_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/I003_C011_0623P8_UHD_SDR_FRC240fps_sdr_4k_qp22_240p_t2160_tsa.mov"
+	},
+	{
+		"location": "Location 14",
+		"title": "Coal Mine Canyon",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M013_C012_F01_FRC240fps_sdr_4k_qp25_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M013_C012_F01_FRC240fps_sdr_4k_qp25_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M013_C012_F01_FRC240fps_sdr_4k_qp25_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M013_C012_F01_FRC240fps_sdr_4k_qp25_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 15",
+		"title": "Utah Evening",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M012_C065_S04_FRC240fps_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M012_C065_S04_FRC240fps_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M012_C065_S04_FRC240fps_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M012_C065_S04_FRC240fps_sdr_4k_qp22_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 16",
+		"title": "Lake Powell",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M010_C009_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M010_C009_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M010_C009_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M010_C009_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 17",
+		"title": "Olympia Bar",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M005_C017_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M005_C017_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M005_C017_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/M005_C017_F01_FRC_sdr_4k_qp22_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 18",
+		"title": "Oregon Coastline",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R004_C012_F01_FRC_sdr_4k_qp32_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R004_C012_F01_FRC_sdr_4k_qp32_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R004_C012_F01_FRC_sdr_4k_qp32_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R004_C012_F01_FRC_sdr_4k_qp32_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 19",
+		"title": "Sunset",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R006_C013_S05_FRC_sdr_4k_qp24_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R006_C013_S05_FRC_sdr_4k_qp24_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R006_C013_S05_FRC_sdr_4k_qp24_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R006_C013_S05_FRC_sdr_4k_qp24_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 20",
+		"title": "Redwoods River",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R013_C039_F01_FRC_sdr_4k_qp27_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R013_C039_F01_FRC_sdr_4k_qp27_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R013_C039_F01_FRC_sdr_4k_qp27_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R013_C039_F01_FRC_sdr_4k_qp27_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 21",
+		"title": "Riverbend",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R014_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R014_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R014_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R014_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 22",
+		"title": "Rocky Coast",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R015_C011_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R015_C011_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R015_C011_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R015_C011_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 23",
+		"title": "Sequoia Forest",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R016_C010_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R016_C010_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R016_C010_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R016_C010_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 24",
+		"title": "Sand Dunes",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R017_C010_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R017_C010_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R017_C010_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R017_C010_F01_FRC_sdr_4k_qp30_240p_t2160_grover401_tsa.mov"
+	},
+	{
+		"location": "Location 25",
+		"title": "Winter Forest",
+		"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R018_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
+		"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R018_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
+		"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R018_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov",
+		"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/R018_C011_F01_FRC_sdr_4k_qp28_240p_t2160_grover401_tsa.mov"
+	}
 ]
