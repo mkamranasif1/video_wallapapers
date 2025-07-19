@@ -201,14 +201,6 @@
     },
     {
         "location": "Undersea",
-        "title": "Bumpheads",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/BO_A014_C008_SDR_20190719_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/BO_A014_C008_HDR_20190719_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/BO_A014_C008_SDR_20190719_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/BO_A014_C008_HDR_20190719_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "Undersea",
         "title": "California Kelp Forest",
         "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/g201_CA_A016_C002_SDR_20191114_SDR_2K_HEVC.mov",
         "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/g201_CA_A016_C002_HDR_20191114_HDR_2K_HEVC.mov",
