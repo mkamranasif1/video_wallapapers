@@ -449,14 +449,6 @@
     },
     {
         "location": "ISS",
-        "title": "South Africa to North Asia",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A351_C001_v06_SDR_PS_20180725_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A351_C001_v06_HDR_PS_FINAL_20180725_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A351_C001_v06_SDR_PS_20180725_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A351_C001_v06_HDR_PS_FINAL_20180725_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
         "title": "Southern California to Baja",
         "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A114_C001_0305OT_v10_SDR_FINAL_22062018_SDR_2K_HEVC.mov",
         "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A114_C001_0305OT_v10_HDR_FINAL_22062018_Bert_HDR_2K_HEVC.mov",
