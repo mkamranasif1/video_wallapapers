@@ -2,9 +2,9 @@
     {
 	"location": "Dubai",
 	"title": "Dubai Night",
-	"url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov",
-	"url_1080p_hdr": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov",
-	"url_4k": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov",
-	"url_4k_hdr": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov"
+	"url_1080p": "https://sylvan.apple.com/Videos/G010_C026_UHD_SDR_v02_2K_AVC.mov",
+	"url_1080p_hdr": "https://sylvan.apple.com/Videos/G010_C026_UHD_SDR_v02_2K_AVC.mov",
+	"url_4k": "https://sylvan.apple.com/Videos/G010_C026_UHD_SDR_v02_2K_AVC.mov"
+	"url_4k_hdr": "https://sylvan.apple.com/Videos/G010_C026_UHD_SDR_v02_2K_AVC.mov"
     }
 ]
