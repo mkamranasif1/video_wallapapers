@@ -2,9 +2,9 @@
     {
 	"location": "Dubai",
 	"title": "Dubai Night",
-	"url_1080p": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/comp_DB_D011_C010_v10_6Mbps.mov",
-	"url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/DB_D011_C010_2K_HDR_HEVC.mov",
-	"url_4k": "https://sylvan.apple.com/Aerials/2x/Videos/DB_D011_C010_4K_SDR_HEVC.mov",
-	"url_4k_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/DB_D011_C010_4K_HDR_HEVC.mov"
+	"url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/comp_DB_D011_C010_PSNK_DENOISE_v19_SDR_PS_20180914_SDR_4K_HEVC.mov",
+	"url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/comp_DB_D011_C010_PSNK_DENOISE_v19_SDR_PS_20180914_SDR_4K_HEVC.mov",
+	"url_4k": "https://sylvan.apple.com/Aerials/2x/Videos/comp_DB_D011_C010_PSNK_DENOISE_v19_SDR_PS_20180914_SDR_4K_HEVC.mov",
+	"url_4k_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/comp_DB_D011_C010_PSNK_DENOISE_v19_SDR_PS_20180914_SDR_4K_HEVC.mov"
     }
 ]
